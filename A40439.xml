@@ -2374,13 +2374,17 @@ of the other Exposition, decypher'd the Letters in the
 same manner, without any difference, the Copy of the
 Print (as you see it here) was brought to the King
 <hi>Dom Sebastian</hi> in the Year 1562.</p>
-            <figure>
-               <head>
-                  <gap reason="foreign">
-                     <desc>〈 in non-Latin alphabet 〉</desc>
-                  </gap>
-               </head>
-            </figure>
+            <p>
+               <pb facs="tcp:57115:32"/>
+               <pb facs="tcp:57115:32"/>
+               <figure>
+                  <head>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </head>
+               </figure>
+            </p>
             <p>
                <pb facs="tcp:57115:33"/>
                <pb n="37" facs="tcp:57115:33"/>
@@ -3835,10 +3839,40 @@ the Conjuncture allow'd not the punishment, sent
 away the Souldier with Letters to the Governour, ac<g ref="char:EOLhyphen"/>quainting
 him with what proofs he had of the suspected
 Treason.</p>
-            <figure>
-               <head>DIO</head>
-               <figDesc>map of the island of Dio</figDesc>
-            </figure>
+            <p>25. <hi>Dom Iohn Mascarenhas</hi> making sure of a Warr,<note place="margin">What pre<g ref="char:EOLhyphen"/>ventions <hi>Dom Iohn Mascarenhas</hi> made.</note>
+gave order (whilst a pretended Peace gave Colour to a
+Trade) to buy up what Provisions were in the City,
+<pb facs="tcp:57115:51"/>
+               <pb facs="tcp:57115:52"/>
+               <figure>
+                  <head>DIO</head>
+                  <figDesc>map of the island of Dio</figDesc>
+               </figure>
+               <pb facs="tcp:57115:53"/>
+               <pb n="73" facs="tcp:57115:53"/>
+a care which for some time kept off, or reliev'd their
+Starving; for the security of commerce was soon al<g ref="char:EOLhyphen"/>tered,
+by a Captains coming into the City with five
+hundred <hi>Turks,</hi> more to dispose, then make a Warr.
+He brought fresh Letters for the Commander from
+<hi>Coge-Sofar,</hi> in which both warily and earnestly, he prest
+the making up of the Wall; <hi>Dom Iohn Mascarenhas</hi>
+would not now return any answer to 'em, telling the
+<hi>Turk,</hi> the <hi>Portuguese</hi> granted no Petitions, which were
+writ by men with Musquets on their Shoulders. That
+day was not the first of Warr, being the last of Peace;
+for on the next <hi>Coge-Sofar</hi> entred with eight thousand
+men to begin the Siege, cutting off from us all succour
+by Land; what was to be expected by Sea, the storms
+of Winter began now to hinder; the worst Enemy
+the Fortress had.<note n="*" place="margin">
+                  <hi>Illustre <gap reason="illegible" resp="#TECH" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>em <gap reason="illegible" resp="#TECH" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> &amp; batalhas.</hi> Fam'd for Sieges and Pitch't fields, <hi>Cam.</hi> Can 10. Sta. 35.</note> This being the place where the <hi>Por<g ref="char:EOLhyphen"/>tuguese</hi>
+acted so great wonders, we will in short inform
+you of its situation.</p>
             <p>26. The Island of <hi>Dio,</hi> renown'd for the Richness of its
 commerce,<note place="margin">The de<gap reason="illegible" resp="#TECH" extent="1 letter">
                      <desc>•</desc>
